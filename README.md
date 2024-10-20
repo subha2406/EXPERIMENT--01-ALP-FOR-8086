@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name : Subha Shree.U
+Roll no : 2305002025  
+Date of experiment :  
 
 
 
